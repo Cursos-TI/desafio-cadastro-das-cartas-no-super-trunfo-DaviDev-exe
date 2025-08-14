@@ -46,7 +46,7 @@ int main() {
     printf("Numero de Pontos Turisticos: ");
     scanf(" %d", &pontosturisticos1);
 
-    // cálculos carta 1
+    // cálculos carta 1 desafio aentureiro
     densidadepopulacional1 = (float) populacao1 / area1;
     pibpercapita1 = (float)(pib1 * 1000000000) / populacao1;
 
@@ -73,7 +73,7 @@ int main() {
     printf("Numero de Pontos Turisticos: ");
     scanf(" %d", &pontosturisticos2);
 
-    // cálculos carta 2
+    // cálculos carta 2 desafio aventureiro
     densidadepopulacional2 = (float) populacao2 / area2;
     pibpercapita2 = (float)(pib2 * 1000000000) / populacao2;
 
